@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/f765c5f0-578e-4b83-a54e-5d8f15f6e23e)
+
 # WebShop Application with Component
 
 This backend provides a small web-application consisting of a [pedestal](http://pedestal.io/)
